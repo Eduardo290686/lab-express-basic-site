@@ -1,0 +1,20 @@
+html {
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background: blue;
+  display: flex;
+  justify-content: center;
+  padding-top: 40vh;
+}
+
+h1 {
+  background: whitesmoke;
+  font-size: 4rem;
+  font-weight: bold;
+  padding: 1.5rem;
+  border: 5px solid rgb(163, 149, 149);
+  border-radius: 2rem;
+}
